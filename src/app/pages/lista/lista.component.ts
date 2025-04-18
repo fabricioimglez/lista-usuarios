@@ -8,4 +8,13 @@ import { Component } from '@angular/core';
 })
 export class ListaComponent {
 
+
+  editar() {
+
+  }
+
+  excluir() {
+
+    
+  }
 }
